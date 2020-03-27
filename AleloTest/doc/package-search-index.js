@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"br.com.alelo.controllers"},{"l":"br.com.alelo.interfaces"},{"l":"br.com.alelo.modelo"},{"l":"br.com.alelo.principal"},{"l":"br.com.alelo.repositorio"},{"l":"br.com.alelo.selenium"}]
